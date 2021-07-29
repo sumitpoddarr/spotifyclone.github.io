@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img src="https://i.ibb.co/x16qbdL/item-4.png" alt="prime lyrics cover image" style="border-rdius:10px"></a>
+<a href="https://sumitpoddarr.github.io/spotifyclone.github.io/"><img src="https://i.ibb.co/x16qbdL/item-4.png" alt="prime lyrics cover image" style="border-rdius:10px"></a>
 </p>
 <br />
 <br />
