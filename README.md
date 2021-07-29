@@ -3,7 +3,7 @@
 </p>
 <br />
 <br />
-<p align="center"> App that finds song lyrics</p>
+<p align="center"> App where you can listen your fav songs</p>
 
 <p align="center">
  <a href="https://sumitpoddarr.github.io/spotifyclone.github.io/"><img src="https://img.shields.io/badge/web%20app-Spotify%20Clone-darkgreen.svg?style=flat-square.svg"></a>
