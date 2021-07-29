@@ -32,7 +32,7 @@ Get your API key from [MusicMatch](/)
 
 Sumit Poddar [sumitpoddar180@gmail.com](mailto:sumitpoddar180@gmail.com)
 
-## License
+## License.
 
 
 This project is licensed under the MIT License
